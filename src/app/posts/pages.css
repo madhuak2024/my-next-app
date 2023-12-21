@@ -1,0 +1,14 @@
+.heading{
+    font-size:25px;
+    color:aqua;
+}
+.container{
+    text-align: center;
+    display:flex;
+    flex-direction: column;
+}
+.image{
+    height:50px;
+    width:50px;
+    align-self: center;
+}
